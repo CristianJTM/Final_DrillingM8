@@ -4,6 +4,20 @@
 Este proyecto es parte del módulo 8 del bootcamp y tiene como objetivo aplicar los conocimientos adquiridos en las sesiones anteriores. El proyecto consiste en [descripción breve del proyecto].
 
 ## Uso
+Se instalar los paquetes necesarios con:
+
+npm i
+
+Crear el archivo .env con los datos de la base de datos, y la palabra secreta para la creacion del token:
+
+USER=
+HOST=
+DATABASE=
+PASSWORD=
+PORT_DB=
+PORT=
+SECRET=
+
 Para ejecutar el proyecto, utilice el siguiente comando:
 
 node server.js
